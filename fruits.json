@@ -1,0 +1,22 @@
+ [
+    {
+      "name" : "Apple",
+	  "color" : "Red"
+    },
+    {
+      "name" : "Banana",
+	  "color" : "Yellow"
+    },
+    {
+      "name" : "Grapes",
+	  "color" : "Green or Red"
+    },
+	  {
+      "name" : "Strawberry",
+	  "color" : "Red"
+    },
+    {
+      "name" : "Pineapple",
+	  "color" : "Yellow"
+    }
+  ]
